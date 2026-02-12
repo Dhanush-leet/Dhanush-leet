@@ -13,10 +13,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **B.E – Electrical and Electronics Engineering (EEE)**  
+🎓 **B.Tech - Computer Science and Business Systems (CSBS)**  
 🏫 Final Year Student at VSB Engineering College  
 💻 Passionate Full Stack Developer (Java + Spring Boot)  
-🌱 Developer Intern at Propel  
 💡 Strong in DSA, Backend Development & REST APIs  
 ⚡ Focused on building clean real-world applications  
 
@@ -54,10 +53,11 @@
 
 <div align="center">
 
-🏗️ Building Full Stack Projects using Spring Boot  
-💪 Practicing DSA and solving problems daily  
-📚 Strengthening Core CS fundamentals  
-🚀 Preparing for product-based company roles  
+🔨 Developing real-world full stack applications  
+📈 Enhancing algorithmic thinking through consistent practice  
+📚 Deep diving into core CS concepts and system design  
+💼 Preparing for challenging software engineering roles  
+
 
 </div>
 
