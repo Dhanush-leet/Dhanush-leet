@@ -1,83 +1,94 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500" alt="Coding GIF"/>
+
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Dhanush+G+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7B801&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Dhanush+G+👋;Full+Stack+Developer;DSA+Enthusiast+🧠;Always+Learning+and+Building+🚀" alt="Typing SVG"/>
 </h1>
 
-<div align="center">
+---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif">
 
-🎓 **B.Tech - Computer Science and Business Systems (CSBS)**  
-🏫 Final Year Student at VSB Engineering College  
+🎓 **B.Tech – Computer Science and Business Systems (CSBS)**  
+🏫 Final Year Student  
+💼 Developer Intern at **Propel**  
 💻 Passionate Full Stack Developer (Java + Spring Boot)  
-💡 Strong in DSA, Backend Development & REST APIs  
-⚡ Focused on building clean real-world applications  
+🧠 LeetCode & Competitive Programming Enthusiast  
+⚡ Building real-world backend systems  
 
 📧 **dhanushsankar4567@gmail.com**
-
-</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode&theme=dark" alt="Tech Stack" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode&theme=dark" />
+
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dhanush-g-964b7b290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Dhanush_Gowrishankar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:dhanushsankar4567@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-leet&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode & Competitive Coding
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Dhanush_Gowrishankar/">
+  <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhanush-g-964b7b290/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhanush_G-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhanushsankar4567@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-🔨 Developing real-world full stack applications  
-📈 Enhancing algorithmic thinking through consistent practice  
-📚 Deep diving into core CS concepts and system design  
-💼 Preparing for challenging software engineering roles  
-
-
-</div>
+- 💪 Solving DSA problems daily  
+- 🏗️ Building scalable backend applications with Spring Boot  
+- 📚 Strengthening core CS fundamentals  
+- 🚀 Cracking top product-based company roles  
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="900">
+
 </div>
 
-<!--
-**Dhanush-leet/Dhanush-leet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
