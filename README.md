@@ -36,17 +36,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-leet&theme=tokyonight" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-leet&theme=tokyo-night" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-leet&theme=tokyonight&hide_border=false" height="165"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-leet&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 
 ---
 
