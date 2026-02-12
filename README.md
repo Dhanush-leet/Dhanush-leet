@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello All 👋
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500" alt="Coding GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="500" alt="Coding GIF"/>
 
 </div>
 
@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 🎓 **B.Tech – Computer Science and Business Systems (CSBS)**  
 🏫 Final Year Student  
-💼 Developer Intern at **Propel**  
+🏅 **Infosys Virtual Internship Best-Performer in the Batch**  
 💻 Passionate Full Stack Developer (Java + Spring Boot)  
 🧠 LeetCode & Competitive Programming Enthusiast  
 ⚡ Building real-world backend systems  
@@ -83,12 +83,8 @@
 - 🚀 Cracking top product-based company roles  
 
 ---
-
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="900">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 </div>
-
-
-
