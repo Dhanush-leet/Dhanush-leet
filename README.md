@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7B801&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Dhanush+G+👋;Full+Stack+Developer;DSA+Enthusiast+🧠;Always+Learning+and+Building+🚀" alt="Typing SVG"/>
 </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -25,6 +29,10 @@
 📧 **dhanushsankar4567@gmail.com**
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -56,6 +64,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ## 🧠 LeetCode & Competitive Coding
 
 <div align="center">
@@ -84,6 +96,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ## 🎯 Current Focus
 
 - 💪 Solving DSA problems daily  
@@ -92,6 +108,11 @@
 - 🚀 Cracking top product-based company roles  
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
