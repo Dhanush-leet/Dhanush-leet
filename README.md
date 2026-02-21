@@ -24,7 +24,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 🎓 **B.Tech – Computer Science and Business Systems (CSBS)**  
-🏫 Final Year Student  
+🏫 Pre-Final Year Student  
 🏅 **Infosys Virtual Internship Best-Performer in the Batch**  
 💻 Passionate Full Stack Developer (Java + Spring Boot)  
 🧠 LeetCode & Competitive Programming Enthusiast  
