@@ -34,6 +34,86 @@
 
 ---
 
+---
+
+## 🚀 Projects
+
+### 💰 Crypto Portfolio Tracker with Risk & Scam Analysis
+**Tech Stack:** Java Spring Boot, HTML, CSS, JavaScript, React  
+
+- Tracks crypto holdings across multiple exchanges and calculates **profit & loss automatically**
+- Detects **risky or scam tokens using analytics-based evaluation**
+- Provides a **secure dashboard to monitor portfolio performance**
+- Developed as part of the **Infosys Virtual Internship Project**
+
+---
+
+### 🔐 Blockchain Certificate Verification System
+**Tech Stack:** React (Vite), Spring Boot, Solidity, Ethereum (Ganache), MetaMask, Tailwind CSS  
+
+- Built a **blockchain-based certificate verification platform**
+- Stored certificate **SHA-256 hashes on Ethereum blockchain**
+- Implemented **Solidity smart contracts for immutable verification**
+- Integrated **MetaMask for secure transaction authentication**
+- Developed a **React frontend with Spring Boot backend verification workflows**
+
+---
+
+### 💼 Premium Developer Portfolio
+**Tech Stack:** React (Vite), TypeScript, Tailwind CSS, Framer Motion  
+
+- Designed a **modern developer portfolio** to showcase projects and achievements
+- Implemented **smooth navigation and dynamic project rendering**
+- Built responsive **glassmorphism UI with Framer Motion animations**
+- Successfully deployed using **Vercel**
+
+🔗 Live: https://dhanush-portfolio-delta.vercel.app
+
+---
+
+### 🎓 College Symposium Website
+**Tech Stack:** React.js, HTML, CSS, JavaScript  
+
+- Developed a **complete event management website for college symposium**
+- Implemented **dynamic routing for technical & non-technical events**
+- Built reusable components for **event details, registrations, and announcements**
+- Optimized performance and ensured **cross-device compatibility**
+
+🔗 Live: www.kanal2k26.tech
+
+---
+
+### 🎟️ Eventora – Smart Event Booking Platform
+**Tech Stack:** React (Vite), Spring Boot, PostgreSQL, Redis, Tailwind CSS  
+
+- Developed a **full-stack event booking system with real-time seat availability**
+- Implemented **Google OAuth authentication and JWT-based security**
+- Added **role-based authorization for admin and users**
+- Designed a **responsive UI using Tailwind CSS**
+- Managed scalable data operations using **PostgreSQL**
+
+---
+
+### 🏥 Medvault – Hospital Appointment Booking & Rejection System
+**Tech Stack:** Java, Spring Boot, Node.js  
+
+- Built a full-stack platform connecting **doctors and patients for appointment scheduling**
+- Doctors can **accept or reject appointment requests**
+- Provides a **structured booking workflow and appointment management system**
+- Designed for **efficient hospital appointment handling**
+
+---
+
+### 🤖 AI Enhanced Career Guidance – Personalized Career Recommendation System
+**Tech Stack:** AI, Machine Learning, Data Analytics, Web Technologies  
+
+- Built an **intelligent system that analyzes user skills and interests**
+- Generates **personalized career path recommendations**
+- Provides **skill development plans for career growth**
+- Selected for **research paper publication in ICCET (Scopus Indexed)**
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
@@ -78,16 +158,16 @@
   <h2 align="center">LeetCode Info</h2>  
   <p align="center">
     <a href="https://leetcode.com/u/Dhanush_Gowrishankar/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="Dhanush LeetCode Badge Dec 2024" height="200" width="200" />
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Dhanush_Gowrishankar/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="Dhanush LeetCode Badge Dec 2025" height="200" width="200" />
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Dhanush_Gowrishankar/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Dhanush LeetCode 2024 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/Dhanush_Gowrishankar/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="Dhanush LeetCode 2024 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="200" width="200" />
     </a>
   </p>
 </div>
@@ -140,7 +220,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
