@@ -112,8 +112,6 @@
 - Provides **skill development plans for career growth**
 - Selected for **research paper publication in ICCET (Scopus Indexed)**
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
