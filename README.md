@@ -138,12 +138,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-leet&theme=tokyo-night&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
