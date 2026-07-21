@@ -98,6 +98,8 @@
 - Provides **skill development plans for career growth**
 - Selected for **research paper publication in ICCET (Scopus Indexed)**
 
+---
+
 ### 🎓 College Symposium Website
 **Tech Stack:** React.js, HTML, CSS, JavaScript  
 
