@@ -46,16 +46,14 @@
 - Provides a **secure dashboard to monitor portfolio performance**
 - Developed as part of the **Infosys Virtual Internship Project**
 
----
+--- 
+### 👜 ELARA – Luxury 3D Handbag E-Commerce Platform
+**Tech Stack:** Next.js, TypeScript, Three.js, React Three Fiber, Node.js, MongoDB, Tailwind CSS, GSAP, Stripe  
 
-### 🔐 Blockchain Certificate Verification System
-**Tech Stack:** React (Vite), Spring Boot, Solidity, Ethereum (Ganache), MetaMask, Tailwind CSS  
-
-- Built a **blockchain-based certificate verification platform**
-- Stored certificate **SHA-256 hashes on Ethereum blockchain**
-- Implemented **Solidity smart contracts for immutable verification**
-- Integrated **MetaMask for secure transaction authentication**
-- Developed a **React frontend with Spring Boot backend verification workflows**
+- Delivers an **immersive 3D product experience** with real-time rotation, zoom, and material/color customization
+- Implements **secure end-to-end checkout** with Stripe payment integration and order management
+- Features **editorial-brutalist UI design** with scroll-driven animations and interactive product showcases
+- Developed as a **self-initiated full-stack + 3D engineering project**
 
 ---
 
@@ -68,18 +66,6 @@
 - Successfully deployed using **Vercel**
 
 🔗 Live: https://dhanush-portfolio-delta.vercel.app
-
----
-
-### 🎓 College Symposium Website
-**Tech Stack:** React.js, HTML, CSS, JavaScript  
-
-- Developed a **complete event management website for college symposium**
-- Implemented **dynamic routing for technical & non-technical events**
-- Built reusable components for **event details, registrations, and announcements**
-- Optimized performance and ensured **cross-device compatibility**
-
-🔗 Live: www.kanal2k26.tech
 
 ---
 
@@ -111,6 +97,18 @@
 - Generates **personalized career path recommendations**
 - Provides **skill development plans for career growth**
 - Selected for **research paper publication in ICCET (Scopus Indexed)**
+
+### 🎓 College Symposium Website
+**Tech Stack:** React.js, HTML, CSS, JavaScript  
+
+- Developed a **complete event management website for college symposium**
+- Implemented **dynamic routing for technical & non-technical events**
+- Built reusable components for **event details, registrations, and announcements**
+- Optimized performance and ensured **cross-device compatibility**
+
+🔗 Live: www.kanal2k26.tech
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
