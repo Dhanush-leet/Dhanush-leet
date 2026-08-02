@@ -59,8 +59,9 @@
 - Implements **secure end-to-end checkout** with Stripe payment integration and order management
 - Features **editorial-brutalist UI design** with scroll-driven animations and interactive product showcases
 - Developed as a **self-initiated full-stack + 3D engineering project**
+  
+🔗 Live: https://elara-e-commerce-website.vercel.app/
 
-🔗 Live: elara-e-commerce-website.vercel.app
 ---
 
 ### 💼 Premium Developer Portfolio
