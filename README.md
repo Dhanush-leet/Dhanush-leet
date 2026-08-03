@@ -76,17 +76,6 @@
 
 ---
 
-### 🎟️ Eventora – Smart Event Booking Platform
-**Tech Stack:** React (Vite), Spring Boot, PostgreSQL, Redis, Tailwind CSS  
-
-- Developed a **full-stack event booking system with real-time seat availability**
-- Implemented **Google OAuth authentication and JWT-based security**
-- Added **role-based authorization for admin and users**
-- Designed a **responsive UI using Tailwind CSS**
-- Managed scalable data operations using **PostgreSQL**
-
----
-
 ### 🏥 Medvault – Hospital Appointment Booking & Rejection System
 **Tech Stack:** Java, Spring Boot, Node.js  
 
