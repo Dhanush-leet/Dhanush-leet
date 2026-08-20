@@ -126,9 +126,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-leet&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Dhanush-leet&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -143,12 +143,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Dhanush-leet&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-leet&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Dhanush-leet&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhanush-leet&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-leet&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+
 </div>
 
 ---
@@ -156,7 +161,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
 ## 🧠 LeetCode & Competitive Coding
 
 <div align="center"> 
