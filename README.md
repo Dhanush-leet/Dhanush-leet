@@ -36,7 +36,8 @@
 ⚡ Building real-world backend systems  
 
 📧 **Email:** dhanushsankar4567@gmail.com  
-🌐 **Portfolio:** [dhanush-portfolio-delta.vercel.app](https://dhanush-portfolio-delta.vercel.app/)
+🌐 **Portfolio:** https://dhanush-portfolio-delta.vercel.app/
+
 ---
 
 ---
