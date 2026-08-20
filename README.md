@@ -35,8 +35,8 @@
 🧠 LeetCode & Competitive Programming Enthusiast  
 ⚡ Building real-world backend systems  
 
-📧 **dhanushsankar4567@gmail.com**
-
+📧 **Email:** dhanushsankar4567@gmail.com  
+🌐 **Portfolio:** [dhanush-portfolio-delta.vercel.app](https://dhanush-portfolio-delta.vercel.app/)
 ---
 
 ---
